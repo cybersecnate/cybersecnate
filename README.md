@@ -1,16 +1,41 @@
-### Hi there 👋
+# Olá, eu sou Nathan! 👋
 
-<!--
-**NathanSilvaSantos/NathanSilvaSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/NathanSilvaSantos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/nathansilvasantos/)
 
-Here are some ideas to get you started:
+### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho 18 anos e estou no último ano do curso técnico em informática, voltado para desenvolvimento de sistemas web. Gosto muito de programação e possuo sólidos conhecimentos nas linguagens Python e javascript.
+Atualmente estou desempregado e focando em meus estudos.
+
+### Habilidades
+
+Possuo sólidos conhecimentos em Python e javascript, estou atualmente estudando node.js. Além dos mesmos tenho conhecimentos básicos em:
+* PHP
+* Flutter
+* Flask
+* React.js / React Native
+
+#### Escolaridade
+
+> **E.M. Dr. Leandro Franceschini**
+> Cursando o 4° ano do curso técnico em informática integrado ao ensino médio. Conteúdos abordados até o momento:
+>
+> - Linguagem C
+> - Word e Excel
+> - HTML5/CSS3
+> - Modelagem de banco de dados
+> - Contabilidade
+> - PHP
+> - SQL
+> - Programação Orientada a Objetos
+> - Redes de computadores
+> - Introdução a sistemas operacionais
+
+#### Experiencia profissional
+
+> Atuei como jovem aprendiz pelo Instituto de Promoção do Menor de Sumaré, de Fev/2019 a Mai/2020. Fui auxiliar administrativo no setor de RH, minhas atividas envolviam atendimento de colaboradores, controle e entrega de documentos e beneficios.
+
+#### Alguns fatos sobre mim
+
+Gosto muito de assuntos que envolvam astronomia e tecnologia. Pretendo cursar ciência da computação futuramente e trabalhar com desenvolvimento web/mobile.
