@@ -18,7 +18,7 @@ Possuo sólidos conhecimentos em Python e javascript, estou atualmente estudando
 
 #### Escolaridade
 
-> **E.M. Dr. Leandro Franceschini**
+> **E.M. Dr. Leandro Franceschini**                
 > Cursando o 4° ano do curso técnico em informática integrado ao ensino médio. Conteúdos abordados até o momento:
 >
 > - Linguagem C
