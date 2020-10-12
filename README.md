@@ -17,6 +17,8 @@ Atualmente estou desempregado e focando em meus estudos.
     </a>
 </div>
 
+
+
 ### Habilidades
 
 Possuo sólidos conhecimentos em Python e javascript, estou atualmente estudando node.js. Além dos mesmos tenho conhecimentos básicos em:
