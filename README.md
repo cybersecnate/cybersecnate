@@ -8,6 +8,15 @@
 Tenho 18 anos e estou no último ano do curso técnico em informática, voltado para desenvolvimento de sistemas web. Gosto muito de programação e possuo sólidos conhecimentos nas linguagens Python e javascript.
 Atualmente estou desempregado e focando em meus estudos.
 
+<div>
+    <a href="https://github.com/NathanSilvaSantos?tab=repositories">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanSilvaSantos&layout=compact" width="400" height="200"/>
+    </a>
+    <a href="https://github.com/NathanSilvaSantos?tab=repositories">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=NathanSilvaSantos&,issues&show_icons=true" width="400" height="200"/>
+    </a>
+</div>
+
 ### Habilidades
 
 Possuo sólidos conhecimentos em Python e javascript, estou atualmente estudando node.js. Além dos mesmos tenho conhecimentos básicos em:
