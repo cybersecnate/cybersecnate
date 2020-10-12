@@ -16,6 +16,9 @@ Atualmente estou desempregado e focando em meus estudos.
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=NathanSilvaSantos&,issues&show_icons=true" width="400" height="200"/>
     </a>
 </div>
+<br>
+<hr>
+
 
 ### Habilidades
 
