@@ -48,7 +48,7 @@ Currently learning about ethical hacking and red teaming.
     
  **PROJECTS**
     
- [**cybersecnate**](https://github.com/biantris/braintris): Repositories that contain everything I've created and studied
+ [**cybersecnate**](https://github.com/cybersecnate/cybersecnate): Repositories that contain everything I've created and studied
 
  ***This section is under construction***
  <!-- 
