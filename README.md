@@ -5,7 +5,7 @@ Cybersecurity Analyst | Penetration tester
     
 *learning Ethical hacking*
 
-I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology ⚛️🌎
+I'm just a tech-loving student who wants to help make the world safer ⚛️🌎
 </div>
 
 
@@ -22,25 +22,24 @@ I'm just a weird person who wants to change (at least a little) the world for th
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersecnate&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-Hi my name is Nathan Santos a.k.a Nate \o/ I like and practice a lot the idea with **Learn in Public** in sharing my knowledge with other people through blog posts or articles and open source, always trying to add value to the tech or non-tech community.
+Hi my name is Nathan Santos a.k.a Nate. I started learning about web development but ended up falling in love with **cyber security**. I use this space to share a little of what I've been learning, I really like to understand how things work and I'm always looking to improve myself.
 
-Experience in **Full-Stack Development** with **TypeScript**, **React**, **GraphQL**, **Relay**, **MongoDB**, and more technologies, focusing on products aligned with user needs.
+Experience in **Service Desk** with **Support N1 and N2**. I have knowledge in **python**, **PHP** and a little **C language**, and I and had contact with more technologies involving cloud computing, virtualization and networking.
 
-UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems, using Figma as the principal tool.
+Currently learning about ethical hacking and red teaming.
 
-> cv [here](https://www.cvkeep.com/cv/266e7beb0afd30a7b2199fd713d7684b) 📄
+> cv [here](https://www.cvkeep.com/cv/cybersecnate) 📄
 
 <div align="center">
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/biantris_)](https://twitter.com/biantris_)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriiz-oliveiraa/)](https://www.linkedin.com/in/beatriiz-oliveiraa/)
-[![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/biantris)](https://www.twitch.tv/biantris)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathansilvasantos/)](https://www.linkedin.com/in/nathansilvasantos/)
+<!-- 
 [![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=DevTo&logoColor=white&link=https://dev.to/beatrizoliveira)](https://dev.to/beatrizoliveira)
 [![Medium](https://img.shields.io/badge/-Medium-grey?style=flat-square&logo=Medium&logoColor=white&link=https://beatrizoliveiraa.medium.com/)](https://beatrizoliveiraa.medium.com/)
 [![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat-square&logo=Patreon&logoColor=white&link=https://www.patreon.com/beatrizoliveira)](https://www.patreon.com/beatrizoliveira)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/BeatrizOliveira250)](https://gitlab.com/BeatrizOliveira250)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira)
-    
+-->
  </div>
 
 ----
@@ -49,8 +48,10 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
     
  **PROJECTS**
     
- [**braintris**](https://github.com/biantris/braintris): Repositories that contain everything I've created and studied
- 
+ [**cybersecnate**](https://github.com/biantris/braintris): Repositories that contain everything I've created and studied
+
+ ***This section is under construction***
+ <!-- 
  [**koa-server**](https://github.com/biantris/koa-server): Back-end project is a NodeJS(KoaJS) server with MongoDB(Mongoose), GraphQL(Relay) and Jest Tests
 
  [**graphql-relay-web**](https://github.com/biantris/graphql-relay-web): Front-end build with React, Relay and GraphQL
@@ -62,9 +63,6 @@ UI&UX Designer with experience in mobile interfaces, desktop, posts, and systems
  **WORKING ON**
   
  [**seujardineiro 🌱**](https://www.seujardineiro.com/): Notification and monitoring platform that helps you manage the care of your plants
+-->
 
----
-    
- <p> Feel free to support me in creating quality content through Patreon: </p>
-    <a href="https://patreon.com/beatrizoliveira"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbeatrizoliveira%26type%3Dpatrons&style=flat-square" alt="Support me on Patreon" /></a>
 </div>
