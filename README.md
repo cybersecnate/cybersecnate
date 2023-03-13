@@ -17,7 +17,9 @@ I'm just a tech-loving student who wants to help make the world safer ⚛️🌎
         alt="Linguagens mais usadas" align="right">
     </a>
 </div>
+![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000) ![:us: English (Intermediate, write/read)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
 
+<div style="padding: 50px; background-color: #E5E4E2; display: inline-block;">  
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersecnate&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
