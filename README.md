@@ -43,6 +43,7 @@ Currently learning about ethical hacking and red teaming.
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira)
 -->
  </div>
+
 ----
 
 **LANGUAGES**
