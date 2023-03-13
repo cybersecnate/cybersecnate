@@ -31,7 +31,7 @@ Currently learning about ethical hacking and red teaming.
 
 > cv [here](https://www.cvkeep.com/cv/cybersecnate) 📄
 
-![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000) ![:us: English (Intermediate, write/read)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
+![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000) ![:us: English (Intermediate, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
 
 <div align="center">
 
