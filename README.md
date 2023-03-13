@@ -17,7 +17,6 @@ I'm just a tech-loving student who wants to help make the world safer ⚛️🌎
         alt="Linguagens mais usadas" align="right">
     </a>
 </div>
-![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000) ![:us: English (Intermediate, write/read)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
 
 <div style="padding: 50px; background-color: #E5E4E2; display: inline-block;">  
 <!---
@@ -31,6 +30,8 @@ Experience in **Service Desk** with **Support N1 and N2**. I have knowledge in *
 Currently learning about ethical hacking and red teaming.
 
 > cv [here](https://www.cvkeep.com/cv/cybersecnate) 📄
+
+![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000) ![:us: English (Intermediate, write/read)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
 
 <div align="center">
 
