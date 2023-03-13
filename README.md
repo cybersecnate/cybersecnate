@@ -48,7 +48,7 @@ Currently learning about ethical hacking and red teaming.
 
 **LANGUAGES**
 
-![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000) ![:us: English (Intermediate/Learning, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
+![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000) ![:us: English (Intermediate/Learning, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate/Learning%2C%20read/write%20speak&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
 
 ----
  
