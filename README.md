@@ -31,7 +31,6 @@ Currently learning about ethical hacking and red teaming.
 
 > cv [here](https://www.cvkeep.com/cv/cybersecnate) 📄
 
-![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000) ![:us: English (Intermediate, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
 
 <div align="center">
 
@@ -44,6 +43,11 @@ Currently learning about ethical hacking and red teaming.
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira)
 -->
  </div>
+----
+
+**LANGUAGES**
+
+![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000) ![:us: English (Intermediate/Learning, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
 
 ----
  
