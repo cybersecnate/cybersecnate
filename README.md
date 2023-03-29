@@ -29,9 +29,12 @@ Experience in **Service Desk** with **Support N1 and N2**. I have knowledge in *
 
 Currently learning about ethical hacking and red teaming.
 
-> cv [here](https://www.cvkeep.com/cv/cybersecnate) 📄
+> cv [here](https://github.com/cybersecnate/Curriculo) 📄
 
-
+<!--
+https://www.cvkeep.com/cv/cybersecnate
+-->
+    
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathansilvasantos/)](https://www.linkedin.com/in/nathansilvasantos/)
