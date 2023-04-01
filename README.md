@@ -27,7 +27,7 @@ Hi my name is Nathan Santos a.k.a Nate. I started learning about web development
 
 Experience in **Service Desk** with **Support N1 and N2**. I have knowledge in **python**, **PHP** and a little **C language**, and I and had contact with more technologies involving cloud computing, virtualization and networking.
 
-Currently learning about ethical hacking and red teaming.
+Currently learning about ethical hacking and Rust programming.
 
 > cv [here](https://github.com/cybersecnate/Curriculo) 📄
 
