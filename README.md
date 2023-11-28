@@ -5,7 +5,7 @@ Cybersecurity Analyst | Penetration tester
     
 *learning Ethical hacking*
 
-I'm just a tech-loving student who wants to help make the world safer ⚛️🌎
+I'm just a tech student who wants to help make the world safer ⚛️🌎
 </div>
 
 
@@ -25,9 +25,9 @@ I'm just a tech-loving student who wants to help make the world safer ⚛️🌎
 
 Hi my name is Nathan Santos a.k.a Nate. I started learning about web development but ended up falling in love with **cyber security**. I use this space to share a little of what I've been learning, I really like to understand how things work and I'm always looking to improve myself.
 
-Experience in **Service Desk** with **Support N1 and N2**. I have knowledge in **python**, **PHP** and a little **C language**, and I and had contact with more technologies involving cloud computing, virtualization and networking.
+Experience in **Service Desk** and **help desk** with **Support N1 and N2**. I have knowledge in **python**, **PHP** and a little **C language**, and I and had contact with more technologies involving **cloud computing**, **virtualization**, **active directory**, **linux** and **networking**.
 
-Currently learning about ethical hacking and Rust programming.
+Currently learning about ethical hacking and Java development.
 
 > cv [here](https://github.com/cybersecnate/Curriculo) 📄
 
@@ -42,7 +42,6 @@ https://www.cvkeep.com/cv/cybersecnate
 [![Medium](https://img.shields.io/badge/-Medium-grey?style=flat-square&logo=Medium&logoColor=white&link=https://cybersecnate.medium.com/)](https://cybersecnate.medium.com/)
 <!-- 
 [![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat-square&logo=Patreon&logoColor=white&link=https://www.patreon.com/beatrizoliveira)](https://www.patreon.com/beatrizoliveira)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira)
 -->
  </div>
 
