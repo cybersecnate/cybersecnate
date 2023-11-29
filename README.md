@@ -40,9 +40,8 @@ https://www.cvkeep.com/cv/cybersecnate
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathansilvasantos/)](https://www.linkedin.com/in/nathansilvasantos/)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=DevTo&logoColor=white&link=https://dev.to/cybersecnate)](https://dev.to/cybersecnate)
 [![Medium](https://img.shields.io/badge/-Medium-grey?style=flat-square&logo=Medium&logoColor=white&link=https://cybersecnate.medium.com/)](https://cybersecnate.medium.com/)
-<!-- 
-[![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat-square&logo=Patreon&logoColor=white&link=https://www.patreon.com/beatrizoliveira)](https://www.patreon.com/beatrizoliveira)
--->
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffe-black?logo=buymeacoffee&logoColor=%23FFDD00)
+
  </div>
 
 ----
