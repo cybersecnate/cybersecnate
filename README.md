@@ -23,7 +23,7 @@ I'm a tech student and cybersecurity professional ⚛️🌎
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersecnate&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-Hi my name is Nathan Santos a.k.a Nate. I am currently pursuing a postgraduate degree in **Offensive Cyber Security**. I use this space to share a little of what I've been learning, I really like to understand how things work and I'm always looking to improve myself.
+Hi my name is Nathan Santos a.k.a Nate. I am currently studying a postgraduate degree in **Offensive Cyber Security**. I use this space to share a little of what I've been learning, I really like to understand how things work and I'm always looking to improve myself.
 
 Experience in **Service Desk/help desk** as **Support Analyst** and currently work as a **SOC N1**. I have knowledge in **python**, **SIEM** and a little **Incident Response**, and I and had contact with more technologies involving **cloud computing**, **virtualization**, **active directory**, **linux** and **networking**.
 
