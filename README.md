@@ -3,7 +3,7 @@
 <div align="center">
 Cybersecurity Assistant | SOC
     
-*learning Network Security*
+*learning Cloud Security*
 
 I'm a tech student and cybersecurity professional ⚛️🌎
 </div>
@@ -23,11 +23,11 @@ I'm a tech student and cybersecurity professional ⚛️🌎
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersecnate&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-Hi my name is Nathan Santos a.k.a Nate. I am currently studying a postgraduate degree in **Offensive Cyber Security**. I use this space to share a little of what I've been learning, I really like to understand how things work and I'm always looking to improve myself.
+Hi my name is Nathan Santos a.k.a Nate. I'm a cybersecurity professional focused on SOC environments, using SIEMs (IBM QRadar, Splunk, Sentinel), XDR/EDR (Trend Micro, Defender), WAF, and Cloudflare CDN. Experience in Threat Hunting, log analysis, and phishing handling, with expertise in creating Playbooks and Runbooks for standardizing incident responses.
 
-Experience in **Service Desk/help desk** as **Support Analyst** and currently work as a **SOC N1**. I have knowledge in **python**, **SIEM** and a little **Incident Response**, and I and had contact with more technologies involving **cloud computing**, **virtualization**, **active directory**, **linux** and **networking**.
+My approach combines a Blue Team perspective and Red Team fundamentals, allowing for an offensive approach to defenses and reducing response time. My purpose is to unite engineering, automation, and strategy to raise the security maturity of organizations and promote more resilient, intelligent, and efficient operations.
 
-Currently learning about ethical hacking and network security.
+Currently learning about cloud security and DevSecOps.
 
 > cv [here](https://github.com/cybersecnate/Curriculo) 📄
 
@@ -57,16 +57,9 @@ https://www.cvkeep.com/cv/cybersecnate
  **PROJECTS**
     
  [**cybersecnate**](https://github.com/cybersecnate/cybersecnate): Repositories that contain everything I've created and studied
+ [**MailCarrier_BOF**](https://github.com/cybersecnate/MailCarrier_BOF): My first Buffer Overflow exploit, created during my postgraduate studies in offensive security.
 
- ***This section is under construction***
  <!-- 
- [**koa-server**](https://github.com/biantris/koa-server): Back-end project is a NodeJS(KoaJS) server with MongoDB(Mongoose), GraphQL(Relay) and Jest Tests
-
- [**graphql-relay-web**](https://github.com/biantris/graphql-relay-web): Front-end build with React, Relay and GraphQL
- 
- [**restris**](https://github.com/biantris/restris): Functional Backend implementation of REST API with NodeJS(KoaJS) MongoDB and Jest Tests
- 
- [**asktris**](https://github.com/biantris/asktris): My Personal Fullstack Playground 
 
  **WORKING ON**
   
