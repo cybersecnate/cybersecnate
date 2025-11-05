@@ -3,7 +3,7 @@
 <div align="center">
 Cybersecurity Assistant | SOC
     
-*learning Cloud Security*
+*Learning Cloud Security*
 
 I'm a tech student and cybersecurity professional ⚛️🌎
 </div>
@@ -57,6 +57,7 @@ https://www.cvkeep.com/cv/cybersecnate
  **PROJECTS**
     
  [**cybersecnate**](https://github.com/cybersecnate/cybersecnate): Repositories that contain everything I've created and studied
+ 
  [**MailCarrier_BOF**](https://github.com/cybersecnate/MailCarrier_BOF): My first Buffer Overflow exploit, created during my postgraduate studies in offensive security.
 
  <!-- 
